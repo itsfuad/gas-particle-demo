@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
+}
+
+canvas {
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid black;
+}
+/*# sourceMappingURL=style.css.map */

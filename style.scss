@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow: hidden;
+}
+
+canvas{
+    background: rgba($color: #ffffff, $alpha: 0.2);
+    border: 1px solid black;
+}
